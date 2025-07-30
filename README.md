@@ -15,8 +15,7 @@ It’s designed to be **engaging, replayable, and visually appealing** with a mo
 
 ## 🖥️ How to Play
 1. **Move** using `WASD` keys or arrow keys.
-2. **Jump** with the `Space` key.
-3. **Avoid** all obstacles and hazards.
-4. **Collect** glowing items to increase your score.
-5. **Reach the end** or survive as long as possible.
+2. **Avoid** all obstacles and hazards.
+3. **Collect** glowing items to increase your score.
+4. **Reach the end** or survive as long as possible.
 
